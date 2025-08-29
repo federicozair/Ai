@@ -57,6 +57,6 @@ if generar:
     else:
         st.warning("Por favor completá el nombre y las características.")
 
-# --- Footer ---
+
 st.write("---")
 st.caption("Hecho con Streamlit. © 2025 FichaXpress AI")
